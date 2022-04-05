@@ -15,7 +15,7 @@ const Download = () => {
             Get the full source code on GitHub
           </p>
         </div>
-        <a href="https://github.com/baserohit/ReactNFT-APP" target={"_blank"}>
+        <a href="https://github.com/baserohit/ProNef" target={"_blank"}>
           <button className={styles.btnPrimary}>Source Code</button>
         </a>
         <div className={styles.flexCenter}>
